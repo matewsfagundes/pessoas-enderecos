@@ -1,1 +1,4 @@
+Server:
+ Servlet:
+    Context-path: /pessoas-enderecos/api
 
